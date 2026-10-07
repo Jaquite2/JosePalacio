@@ -1,8 +1,8 @@
-# 🚗 Análisis de Accidentes de Tránsito
+#  Análisis de Accidentes de Tránsito
 
 ![Accidentes de tránsito](accidentes.jpg)
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 
 Este proyecto tiene como objetivo utilizar herramientas de ciencia de datos para analizar información relacionada con accidentes de tránsito.
 
@@ -10,11 +10,11 @@ A partir de diferentes datos se busca identificar patrones que permitan conocer 
 
 La ciencia de datos puede ayudar a transformar una gran cantidad de información en resultados que permitan comprender mejor las causas y características de los accidentes de tránsito.
 
-## 🎯 Objetivo general
+##  Objetivo general
 
 Analizar datos relacionados con accidentes de tránsito para identificar patrones y factores que puedan estar asociados con una mayor probabilidad de que ocurra un accidente.
 
-## ❓ Problema
+##  Problema
 
 Los accidentes de tránsito son un problema que puede estar relacionado con diferentes factores como la hora del día, el tipo de vehículo, las condiciones climáticas o el lugar donde ocurre el accidente.
 
@@ -22,7 +22,7 @@ Sin un análisis de los datos puede ser difícil identificar cuáles de estos fa
 
 Por esta razón, este proyecto propone utilizar herramientas de ciencia de datos para organizar, analizar y visualizar información relacionada con accidentes de tránsito.
 
-## 📊 Datos que se podrían analizar
+##  Datos que se podrían analizar
 
 Para desarrollar el proyecto se podrían utilizar variables como:
 
@@ -71,7 +71,7 @@ Durante el proyecto se podrían realizar gráficas como:
 - Accidentes según su nivel de gravedad.
 - Accidentes según las condiciones climáticas.
 
-## ✅ Resultados esperados
+##  Resultados esperados
 
 Se espera identificar patrones que permitan conocer cuáles son las situaciones en las que ocurren más accidentes.
 
@@ -79,14 +79,12 @@ Por ejemplo, se podría determinar si existe una mayor cantidad de accidentes du
 
 Estos resultados podrían utilizarse para comprender mejor el problema y apoyar la toma de decisiones relacionadas con seguridad vial.
 
-## 👨‍💻 Rol del científico de datos
+##  Rol del científico de datos
 
 En este proyecto el científico de datos sería responsable de recolectar, limpiar, organizar y analizar la información.
 
 También tendría que crear visualizaciones, identificar patrones y comunicar los resultados obtenidos de una manera clara para facilitar la toma de decisiones.
 
-## 👤 Autor
 
-Jose Palacio
 
-Introducción a la Ciencia de Datos - DATA1001
+
